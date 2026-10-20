@@ -1,24 +1,28 @@
 # Power BI e Análise de Dados com IA — 40 horas
 
-Material didático do curso da Escola SENAI “Orlando Laviero Ferraiuolo”.
+Curso: Escola SENAI “Orlando Laviero Ferraiuolo”.
 
-**Desenvolvimento gradual:** cada aula será organizada, testada e publicada individualmente. O projeto BI Autopilot será desenvolvido posteriormente, a partir dos fundamentos estudados.
+O material será disponibilizado **uma aula por vez**, após revisão. O projeto BI Autopilot será desenvolvido progressivamente durante o curso.
 
 ## Aula 01 — IA, Ética e Prompts
 
-Materiais preparados para inclusão em `aulas/aula-01/`:
+### Materiais do aluno disponíveis
 
-- `Aula 01 — IA, Ética e Prompts.pptx` — apresentação da aula.
-- `Aula01_Exercicio01_IA_Analitica_ALUNO.ipynb` — atividade no Google Colab, versão do aluno.
-- `Aula01_Exercicio01_IA_Analitica_PROFESSOR.ipynb` — versão de apoio ao docente.
+- [Exercício 01 — IA Analítica (Google Colab)](aulas/aula-01/Aula01_Exercicio01_IA_Analitica_ALUNO.ipynb)
+- [Exercício 02 — IA Generativa (Google Colab)](aulas/aula-01/Aula01_Exercicio02_IA_Generativa_ALUNO.ipynb)
 
-**Status:** arquivos didáticos aguardando publicação. Apenas o README foi publicado nesta etapa.
+A apresentação **Aula 01 — IA, Ética e Prompts.pptx** está pendente de envio para o repositório.
 
-### Princípios do curso
-1. Uma aula por vez, com teoria e prática intercaladas.
-2. Material do aluno e orientação do professor separados.
-3. Exercícios progressivos no Google Colab e, depois, no Power BI.
-4. Revisão e aprovação antes de avançar para outra aula.
-5. Boas práticas de ética, privacidade e conferência dos resultados de IA.
+### Orientações
 
-> Os exemplos e bases de treinamento devem usar dados fictícios ou adequadamente autorizados.
+1. Acompanhe a explicação e realize a prática junto com o professor.
+2. Abra os notebooks no Google Colab e salve uma cópia própria.
+3. Complete e execute as células na ordem indicada.
+4. Confira os resultados e registre suas observações.
+5. Use somente dados fictícios ou autorizados nas ferramentas de IA.
+
+**Materiais reservados do professor (gabaritos, soluções e orientações de correção) não são publicados neste repositório público.**
+
+## Evolução do curso
+
+As próximas aulas serão adicionadas somente após revisão e aprovação. Não existem pastas de aulas futuras neste momento.
